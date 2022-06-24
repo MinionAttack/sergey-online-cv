@@ -1,5 +1,7 @@
 # Online Curriculum Vitae
 
+![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-MIT-brightgreen) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MinionAttack_sergey-online-cv&metric=alert_status)](https://sonarcloud.io/dashboard?id=MinionAttack_sergey-online-cv)
+
 My online Curriculum Vitae website. A simple static web with HTML5 + CSS3 + JavaScript.
 
 This new repository has been made to allow for more modular development as content is updated, rather than having a single gigantic HTML
