@@ -1,7 +1,7 @@
 {
   "name": "sergey-online-cv",
   "version": "1.0.0",
-  "description": "My online Curriculum Vitae web. A simple static web with HTML5 + CSS3 + JavaScript",
+  "description": "My online Curriculum Vitae website. A simple static web with HTML5 + CSS3 + JavaScript",
   "scripts": {
     "start": "sergey",
     "dev": "sergey --watch"
