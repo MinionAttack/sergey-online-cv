@@ -21,6 +21,16 @@ As some browsers have problems with the **WebAudio API** and are changing the po
 using [Bowser](https://github.com/lancedikson/bowser) to detect the browser and act accordingly to allow autoplay or play more than one
 song.
 
+# Usage
+
+To start a development server and watch for any changes run:
+
+`npm run dev`
+
+To create a `public` folder ready to deploy run:
+
+`npm run start`
+
 # License
 
 MIT License
