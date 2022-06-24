@@ -1,0 +1,54 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../img/background/spaceXbackground.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.intro-text {
+    display: inline-grid;
+    line-height: 1.5em;
+    margin-top: 0 !important;
+}
+
+.top-nav-collapse {
+    background-color: #24355C;
+}
+
+.pencil-paper {
+    display: block !important;
+}
+
+.paper-text {
+    display: inline-grid;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.custom-textarea {
+    padding: 0 !important;
+}
+
+/* Sound spectrum */
+#soundSpectrum {
+    position: fixed;
+    left: 11%;
+    bottom: 0;
+    height: 10%;
+    width: 78%;
+    z-index: 1;
+}
+
+@media screen and (min-width: 321px) and (max-width: 1199px) {
+    .navbar:not(.top-nav-collapse) {
+        background-color: #24355C;
+    }
+}

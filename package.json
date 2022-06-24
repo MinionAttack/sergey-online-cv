@@ -1,0 +1,28 @@
+{
+  "name": "sergey-online-cv",
+  "version": "1.0.0",
+  "description": "My online Curriculum Vitae web. A simple static web with HTML5 + CSS3 + JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "sergey",
+    "dev": "sergey --watch"
+  },
+  "keywords": [
+    "curriculum vitae",
+    "online"
+  ],
+  "author": "MinionAttack",
+  "license": "MIT",
+  "dependencies": {
+    "sergey": "^0.0.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinionAttack/sergey-online-cv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MinionAttack/sergey-online-cv/issues"
+  },
+  "homepage": "https://github.com/MinionAttack/sergey-online-cv#readme"
+}
