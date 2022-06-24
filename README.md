@@ -23,6 +23,10 @@ song.
 
 # Usage
 
+Install the necessary dependencies, in the root folder run:
+
+`npm install`
+
 To start a development server and watch for any changes run:
 
 `npm run dev`
