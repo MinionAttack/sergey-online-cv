@@ -2,7 +2,6 @@
   "name": "sergey-online-cv",
   "version": "1.0.0",
   "description": "My online Curriculum Vitae web. A simple static web with HTML5 + CSS3 + JavaScript",
-  "main": "index.js",
   "scripts": {
     "start": "sergey",
     "dev": "sergey --watch"
